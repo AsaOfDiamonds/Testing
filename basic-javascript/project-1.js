@@ -104,7 +104,7 @@ const getTriangleArea = (base, height) => {
   return 0.5 * base * height;
 };
 
-const getCircleArea = radius => {
+const getCircleArea = radius => {  
   return Math.PI * radius * radius;
 };
 
